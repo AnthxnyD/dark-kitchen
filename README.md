@@ -10,6 +10,6 @@
 
 <h2>Link for Dark-Kitchen :</h2>
 
-<img align="left" alt="Lien" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" /> [Linkedin](https://www.linkedin.com/in/loic-calcagno-47b0/)
+<img align="left" alt="Lien" width="22px" src="" /> [Lien](https://anthxnyd.github.io/dark-kitchen/)
 <br/>
 
