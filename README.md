@@ -2,7 +2,6 @@
 
 <h2>About Team :</h2>
 <ul>
-  <li>:school: I’m currently learning at <a href="https://becode.org/fr/apprendre/developpeur-web-junior/">BeCode</a></li>
   <li>Rinaldo Benaccetta</li>
   <li>Anthony Denis</li>
   <li>Titouan Moussiaux</li>
@@ -17,4 +16,4 @@
 
 <h3>Most used languages :</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalcagnoLoic&layout=compact&theme=cobalt&langs_count=10&hide_title=true&hide_border=true)
+![Top Langs](https://github.com/AnthxnyD/dark-kitchen.git)
