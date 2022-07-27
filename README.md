@@ -13,7 +13,3 @@
 <img align="left" alt="Lien" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" /> [Linkedin](https://www.linkedin.com/in/loic-calcagno-47b0/)
 <br/>
 
-
-<h3>Most used languages :</h3>
-
-![Top Langs](https://github.com/AnthxnyD/dark-kitchen.git)
