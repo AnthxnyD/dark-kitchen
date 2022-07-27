@@ -10,6 +10,6 @@
 
 <h2>Link for Dark-Kitchen :</h2>
 
-<img align="left" alt="Lien" width="22px" src="" /> [Lien](https://anthxnyd.github.io/dark-kitchen/)
+[Lien](https://anthxnyd.github.io/dark-kitchen/)
 <br/>
 
